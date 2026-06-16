@@ -90,30 +90,6 @@ data-brew-cafe-simulation/
 ├── .gitignore
 └── README.md
 ```
-
-> **Note:** This structure is a recommendation. Adjust the paths above to match how you actually arrange the files in the repo.
-
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/data-brew-cafe-simulation.git
-   cd data-brew-cafe-simulation
-   ```
-
-2. (Recommended) Create and activate a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # On Windows: venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## Usage
