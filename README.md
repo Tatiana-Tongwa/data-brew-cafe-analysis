@@ -177,4 +177,4 @@ Course: *A220A6501 – System Dynamics with Applications*, LUT Business School (
 
 ## License
 
-No license is currently specified. If you intend this to be openly reusable, consider adding one (e.g., MIT). Until a license is added, default copyright applies. *Check with your teammate and course guidelines before choosing.*
+MIT Licence
